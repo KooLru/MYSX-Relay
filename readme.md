@@ -5,7 +5,7 @@ Board with relays and MYSX connector
 
 Switch up to 4 channels
 
-# PCB
+## PCB
 ![TOP](images/pcb-rev1-top.png) ![Bottom](images/pcb-rev1-bottom.png)
 
 ## Hardware Spec
