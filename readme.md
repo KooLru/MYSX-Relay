@@ -6,7 +6,9 @@ Board with relays and MYSX connector
 Switch up to 4 channels
 
 ## PCB
-![TOP](images/pcb-rev1-top.png) ![Bottom](images/pcb-rev1-bottom.png)
+![TOP](images/pcb-rev0-top.png) 
+
+![Bottom](images/pcb-rev0-bottom.png)
 
 ## Hardware Spec
 - MH-Z19B
