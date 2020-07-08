@@ -5,7 +5,22 @@ Board with relays and MYSX connector
 
 ## Introduction
 
-Switch up to 4 channels
+Switch up to 4 channels:
+- **MYSX_D10** Relay 1;
+- **MYSX_D9** Relay 2;
+- **MYSX_D6** Relay 3;
+- **MYSX_D5** Relay 4;
+
+Analog | digital sensors via 3 pin JST 1mm connector:
+
+- **MYSX_D4** J5;
+- **MYSX_D3** J6;
+
+I2C (4 pin JST 1mm connector)
+
+- **MYSX_D7** SCL;
+- **MYSX_D8** SDA;
+
 
 ## PCB
 ![TOP](images/pcb-rev0-top.png) 
